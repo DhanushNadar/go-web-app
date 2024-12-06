@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: go-app
-        image: dhanushnadar/devopsified-go-app:V_10
+        image: dhanushnadar/devopsified-go-app:latest
         ports:
         - containerPort: 8000
