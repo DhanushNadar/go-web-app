@@ -6,4 +6,4 @@
 replicaCount: 1
 
 image:
-  tag: V_21
+  tag: latest
